@@ -30,7 +30,7 @@ const fun = async() =>{
     console.log(result2);
     const result3 = await getMarks(result2.subId);
     console.log(result3);
-    console.log('xyz')
+    // console.log('xyz')
 }
 
 fun();
